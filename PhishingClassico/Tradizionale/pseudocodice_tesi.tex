@@ -1,0 +1,59 @@
+\begin{algorithm}
+\caption{Framework di Simulazione Phishing - JhonCecio}
+\label{alg:jhoncecio}
+\begin{algorithmic}[1]
+
+\State \textbf{Inizializzazione Sistema}
+\State $templates \gets \{amazon, facebook, instagram, paypal\}$
+\State $selected\_template \gets$ selezione utente da $templates$
+\State $credentials\_file \gets$ "credenziali/" + $selected\_template$ + ".txt"
+
+\State
+\State \textbf{Avvio Servizi}
+\State Avvia $proxy\_php$ su porta 8000
+\State Avvia $flask\_backend$ su porta 5001  
+\State Avvia $tunnel\_service$ per esposizione pubblica
+
+\State
+\State \textbf{Gestione Richieste}
+\While{$sistema\_attivo$}
+    \State $request \gets$ ricevi richiesta da $tunnel\_pubblico$
+    
+    \If{$request.method = GET$ e $request.path = "/"$}
+        \State $proxy\_php$ inoltra a $flask\_backend$
+        \State $response \gets$ genera pagina login da $selected\_template$
+        \State invia $response$ tramite $proxy\_php$ a utente
+        
+    \ElsIf{$request.method = POST$ e $request.path = "/login"$}
+        \State $credentials \gets$ estrai dati da $request.body$
+        \State $timestamp \gets$ genera timestamp corrente
+        \State scrivi $\{timestamp, credentials\}$ in $credentials\_file$
+        \State log operazione in file debug
+        \State $redirect\_url \gets$ URL sito legittimo
+        \State invia redirect a $redirect\_url$
+        
+    \Else
+        \State invia errore 404
+    \EndIf
+\EndWhile
+
+\State
+\State \textbf{Terminazione}
+\State Termina $tunnel\_service$
+\State Termina $flask\_backend$ 
+\State Termina $proxy\_php$
+\State Pulisci file temporanei
+
+\end{algorithmic}
+\end{algorithm}
+
+\vspace{0.5cm}
+
+\textbf{Componenti Architetturali:}
+\begin{itemize}
+\item \textbf{Proxy PHP} (porta 8000): Gestisce richieste esterne e le inoltra al backend Flask
+\item \textbf{Backend Flask} (porta 5001): Genera pagine template e processa credenziali
+\item \textbf{Tunnel Service}: Espone il sistema via URL pubblico (tunnelto/ngrok)
+\item \textbf{Template Engine}: Replica interfacce di servizi legittimi
+\item \textbf{Persistence Layer}: Salvataggio credenziali e logging operazioni
+\end{itemize}

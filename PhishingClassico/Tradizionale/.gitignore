@@ -1,0 +1,29 @@
+# Logs e file temporanei
+debug/*.log
+debug/*.bak
+debug/creds_debug.log
+
+# File di credenziali raccolte (non versionare dati sensibili)
+credenziali/*.txt
+
+# Cache/editor
+.DS_Store
+*.swp
+*.tmp
+
+# Ambiente Python (se creato in futuro)
+venv/
+__pycache__/
+
+# File tunnel o runtime
+*.pid
+*.sock
+
+# Backup
+*.bak
+
+# Escludi eventuali file binari clonati
+assets/*.bin
+
+# Se vuoi mantenere un placeholder per le credenziali:
+# !credenziali/.keep
