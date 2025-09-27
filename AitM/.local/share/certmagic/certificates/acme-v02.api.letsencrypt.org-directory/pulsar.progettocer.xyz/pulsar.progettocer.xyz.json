@@ -1,0 +1,9 @@
+{
+	"sans": [
+		"pulsar.progettocer.xyz"
+	],
+	"issuer_data": {
+		"url": "https://acme-v02.api.letsencrypt.org/acme/cert/0570cdef6964b67c6b1899c4e0fc388fe5eb",
+		"ca": "https://acme-v02.api.letsencrypt.org/directory"
+	}
+}

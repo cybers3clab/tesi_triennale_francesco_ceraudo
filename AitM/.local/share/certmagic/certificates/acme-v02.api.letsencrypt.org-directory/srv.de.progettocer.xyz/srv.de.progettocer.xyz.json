@@ -1,0 +1,9 @@
+{
+	"sans": [
+		"srv.de.progettocer.xyz"
+	],
+	"issuer_data": {
+		"url": "https://acme-v02.api.letsencrypt.org/acme/cert/05fe89098ad9d4e116eea61754afedfe2f61",
+		"ca": "https://acme-v02.api.letsencrypt.org/directory"
+	}
+}

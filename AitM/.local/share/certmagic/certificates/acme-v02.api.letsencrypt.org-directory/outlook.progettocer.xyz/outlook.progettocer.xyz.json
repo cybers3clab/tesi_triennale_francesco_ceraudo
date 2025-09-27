@@ -1,0 +1,9 @@
+{
+	"sans": [
+		"outlook.progettocer.xyz"
+	],
+	"issuer_data": {
+		"url": "https://acme-v02.api.letsencrypt.org/acme/cert/0590a710c8df465e71d84a340fae05b83bdf",
+		"ca": "https://acme-v02.api.letsencrypt.org/directory"
+	}
+}

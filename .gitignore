@@ -1,0 +1,11 @@
+.DS_Store
+.vscode/
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+logs/
+*.log
+PhishingClassico/Tradizionale/credenziali/
+PhishingClassico/Tradizionale/debug/

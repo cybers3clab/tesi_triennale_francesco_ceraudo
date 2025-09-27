@@ -1,0 +1,9 @@
+{
+	"sans": [
+		"idp-poste.progettocer.xyz"
+	],
+	"issuer_data": {
+		"url": "https://acme-v02.api.letsencrypt.org/acme/cert/055c1a96ced46094b3579c9d2eaa7c675b2f",
+		"ca": "https://acme-v02.api.letsencrypt.org/directory"
+	}
+}
